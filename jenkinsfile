@@ -10,7 +10,7 @@ pipeline {
    
     environment {
            
-            IP_ADDRESS = "172.31.89.210"
+            IP_ADDRESS = "172.31.89.210" //replace with your public IP or private IP of nexus server
         }
    
     stages {
